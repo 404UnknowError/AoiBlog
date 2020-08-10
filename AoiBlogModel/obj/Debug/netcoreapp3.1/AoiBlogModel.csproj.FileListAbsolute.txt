@@ -1,9 +1,0 @@
-G:\MyGitHub\AoiBlog\AoiBlogModel\bin\Debug\netcoreapp3.1\AoiBlogModel.deps.json
-G:\MyGitHub\AoiBlog\AoiBlogModel\bin\Debug\netcoreapp3.1\AoiBlogModel.dll
-G:\MyGitHub\AoiBlog\AoiBlogModel\obj\Debug\netcoreapp3.1\AoiBlogModel.csprojAssemblyReference.cache
-G:\MyGitHub\AoiBlog\AoiBlogModel\obj\Debug\netcoreapp3.1\AoiBlogModel.AssemblyInfoInputs.cache
-G:\MyGitHub\AoiBlog\AoiBlogModel\obj\Debug\netcoreapp3.1\AoiBlogModel.AssemblyInfo.cs
-G:\MyGitHub\AoiBlog\AoiBlogModel\bin\Debug\netcoreapp3.1\AoiBlogModel.pdb
-G:\MyGitHub\AoiBlog\AoiBlogModel\obj\Debug\netcoreapp3.1\AoiBlogModel.csproj.CoreCompileInputs.cache
-G:\MyGitHub\AoiBlog\AoiBlogModel\obj\Debug\netcoreapp3.1\AoiBlogModel.dll
-G:\MyGitHub\AoiBlog\AoiBlogModel\obj\Debug\netcoreapp3.1\AoiBlogModel.pdb
