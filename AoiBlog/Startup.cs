@@ -67,7 +67,7 @@ namespace AoiBlog
             });
 
             #region 数据库操作
-
+            mainContext.Database.EnsureCreated();
             
             #endregion
         }
